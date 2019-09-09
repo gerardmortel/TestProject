@@ -9,5 +9,7 @@ int main()
     cout << "Hello " << firstName << " " << lastName << "!" << endl;
     firstName = "Mylove";
     cout << "Hello " << firstName << " " << lastName << "!" << endl;
+    firstName = "Caroline";
+    cout << "Hello " << firstName << " " << lastName << "!" << endl;
     return 0;
 }
