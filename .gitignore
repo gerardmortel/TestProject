@@ -1,4 +1,2 @@
-# Files/Directories to ignore
-.vscode
+# Files and directories to ignore
 *.out
-
