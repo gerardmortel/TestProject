@@ -15,5 +15,7 @@ int main()
     cout << "Hello " << firstName << " " << lastName << "!" << endl;
     firstName = "Nicole";
     cout << "Hello " << firstName << " " << lastName << "!" << endl;
+    firstName = "Maria Hazel";
+    cout << "Hello " << firstName << " " << lastName << "!" << endl;
     return 0; 
 }
